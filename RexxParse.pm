@@ -742,7 +742,7 @@ ftp://www.danofsteel.com/pub/RexxParse/String-RexxParse-1.10.tar.gz
 
 Dan Campbell
 
-=over 0
+=over
 
 =item Copyright
 
